@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/davidimprovz/GIS-Capstone-2018/master?filepath=anvil_app_demo.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/davidimprovz/giscaps-2018/master?filepath=anvil_app_demo.ipynb)
 
 # Anvil Real Estate
 
@@ -24,4 +24,4 @@ Steps
 5. Display properties in a map, symbolized by likelihood of profitability
 
 
-View the code in action: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/davidimprovz/GIS-Capstone-2018/master?filepath=anvil_app_demo.ipynb)
+View the code in action: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/davidimprovz/giscaps-2018/master?filepath=anvil_app_demo.ipynb)
